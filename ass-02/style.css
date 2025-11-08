@@ -1,0 +1,60 @@
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: whitesmoke;
+    }
+
+    .invitation-card {
+      width: 60%;
+      margin: 50px auto;
+      background-color: #f9f9f9;
+      border: 3px solid blue;
+      padding: 20px;
+      text-align: center;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,255,0.2);
+    }
+
+    .invitation-card img {
+      display: block;
+      margin: 0 auto 15px;
+    }
+
+    h2 {
+      color: darkblue;
+      font-family: 'Trebuchet MS', sans-serif;
+    }
+
+    p {
+      color: #333;
+      font-size: 16px;
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    .product-img {
+      width: 300px;
+      display: block;
+      margin: 0 auto 20px;
+      border-radius: 10px;
+      border-color: black;
+    }
+
+    button {
+      background-color: blue;
+      color: rgb(8, 8, 8);
+      border: none;
+      padding: 12px 25px;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: darkblue;
+    }
+  
+
+
+
+  
